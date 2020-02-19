@@ -1,0 +1,42 @@
+[
+	{
+		"_id": "5d79ccc06e87aa8a83efcc2c",
+		"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742593/users/user-01.jpg",
+		"name": "Marsha Boyd",
+		"email": "marsha@gmail.com",
+		"password": "$2b$10$LQ5Usy9QWrfoff1Kp/g.ue09fZUyAZewJKcA9P/DexlIsqukjuJo6",
+		"location": "Canggu, Bali"
+	},
+	{
+		"_id": "5d83408bf7435a5a8928af62",
+		"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742699/users/user-02.jpg",
+		"name": "Brian Wallace",
+		"email": "brian@gmail.com",
+		"password": "$2b$10$qGzpcHjnmkirgcn.ZEC8z.nbpoh0tK6krqV9xlOX8hP9k.9.2V0aO",
+		"location": "London, UK"
+	},
+	{
+		"_id": "5d834127f7435a5a8928af63",
+		"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742775/users/user-03.jpg",
+		"name": "Joann Prescott",
+		"email": "joann@gmail.com",
+		"password": "$2b$10$b6Ho0urzmgr8OA1Ksv74YuAvbZu9h.0.hRxomYflge0uH6up4NM4.",
+		"location": "Tokyo, Japan"
+	},
+	{
+		"_id": "5d897f4bbc804726fb399b79",
+		"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742838/users/user-04.jpg",
+		"name": "Jar Carlson",
+		"email": "jar@gmail.com",
+		"location": "Ubud, Bali",
+		"password": "$2b$10$AjIaL2S0CcaSLQWtSoLlJeflKpx9n59N9Uzl58765j8z3pGi36Sq2"
+	},
+	{
+		"_id": "5d89824de43970271696485d",
+		"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742914/users/user-05.jpg",
+		"name": "Brittany Hunter",
+		"email": "brittany@email.com",
+		"password": "$2b$10$d9uOPhZkJZQM2YGNIkmoWureraRUVF8rSynFvIJeCOy8Bc3nogIES",
+		"location": "San Francisco, USA"
+	}
+]

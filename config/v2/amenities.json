@@ -1,0 +1,32 @@
+[
+	{
+		"_id": "5d747186743ccb6a5369ac73",
+		"name": "Kitchen",
+		"icon": "utensils"
+	},
+	{
+		"_id": "5d747191743ccb6a5369ac74",
+		"name": "Gym",
+		"icon": "dumbbell"
+	},
+	{
+		"_id": "5d74719b743ccb6a5369ac75",
+		"name": "Iron",
+		"icon": "tshirt"
+	},
+	{
+		"_id": "5d7471a5743ccb6a5369ac76",
+		"name": "Swimming Pool",
+		"icon": "swimmer"
+	},
+	{
+		"_id": "5d7471b1743ccb6a5369ac77",
+		"name": "Air Conditioning",
+		"icon": "wind"
+	},
+	{
+		"_id": "5d7471ba743ccb6a5369ac78",
+		"name": "TV",
+		"icon": "tv"
+	}
+]

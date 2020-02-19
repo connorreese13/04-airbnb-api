@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "5d747e2f86803b6c85e160df",
+		"rating": 2,
+		"author": "5d79ccc06e87aa8a83efcc2c",
+		"content": "It was beyond my imagination that my AirBnB experience could be better than a 5 star resort hotel. It is one of the most beautiful villa that I have had stayed so far in the many countries travelled so far. The pictures have not sufficiently described the details of the place.",
+		"house": "5d71d21b8dfc7c53d9c950b1"
+	},
+	{
+		"_id": "5d747e5586803b6c85e160e0",
+		"rating": 4,
+		"author": "5d79ccc06e87aa8a83efcc2c",
+		"content": "Just incredible.",
+		"house": "5d71d21b8dfc7c53d9c950b1"
+	},
+	{
+		"_id": "5d77b4aa6b6dd6325ae301a6",
+		"rating": 5,
+		"author": "5d79ccc06e87aa8a83efcc2c",
+		"content": "The villa was spacious and bright and the garden nicely decorated with trees and plants- furniture was modern and breakfast was nice!",
+		"house": "5d77b4776b6dd6325ae3018d"
+	},
+	{
+		"_id": "5d7da0e747047f8fe2ac31ce",
+		"rating": 1,
+		"author": "5d79ccc06e87aa8a83efcc2c",
+		"content": "We both enjoyed our stay at the tropical suite villa, it’s a lovely peaceful place with a nice pool perfect for relaxing. It was ideal to stay for a couple nights amongst our trip to Bali.",
+		"house": "5d7487255546696db8708365"
+	},
+	{
+		"_id": "5d7da17747047f8fe2ac31cf",
+		"rating": 2,
+		"content": "An excellent place to stay in Canggu!",
+		"house": "5d749b936b6dd6325ae2a288",
+		"author": "5d79ccc06e87aa8a83efcc2c"
+	},
+	{
+		"_id": "5d7da1c747047f8fe2ac31d0",
+		"rating": 3,
+		"content": "Lovely and private! Big comfy bed, nice cooling pool and the privacy was second to none.",
+		"house": "5d749b936b6dd6325ae2a288",
+		"author": "5d79ccc06e87aa8a83efcc2c"
+	},
+	{
+		"_id": "5d7da26ea3f9a5a8c85f8119",
+		"rating": 4,
+		"content": "Overall the villa was pretty decent value. Surty is great host and was kind and helpfull! The bed was very large, however I would of liked a duvet instead of just a sheet. ",
+		"house": "5d71d21b8dfc7c53d9c950b1",
+		"author": "5d79ccc06e87aa8a83efcc2c"
+	},
+	{
+		"_id": "5d7da2b7a3f9a5a8c85f811a",
+		"rating": 5,
+		"content": "Really lovely, quiet, clean space with amazingly friendly hosts who are readily available to help.",
+		"house": "5d71d21b8dfc7c53d9c950b1",
+		"author": "5d79ccc06e87aa8a83efcc2c"
+	}
+]

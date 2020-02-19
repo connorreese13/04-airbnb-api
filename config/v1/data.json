@@ -1,0 +1,122 @@
+[
+	{
+		"plus": true,
+		"images": [
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689181/airbnb/airbnb-01-01.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689561/airbnb/airbnb-01-02.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689569/airbnb/airbnb-01-03.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689571/airbnb/airbnb-01-04.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689573/airbnb/airbnb-01-05.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689570/airbnb/airbnb-01-06.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689571/airbnb/airbnb-01-07.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689575/airbnb/airbnb-01-08.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689570/airbnb/airbnb-01-09.jpg"
+		],
+		"reviews": [
+			{
+				"rating": 2,
+				"author": {
+					"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742699/users/user-02.jpg",
+					"name": "Brian Wallace",
+					"email": "brian@gmail.com",
+					"password": "$2b$10$qGzpcHjnmkirgcn.ZEC8z.nbpoh0tK6krqV9xlOX8hP9k.9.2V0aO",
+					"location": "London, UK"
+				},
+				"content": "It was beyond my imagination that my AirBnB experience could be better than a 5 star resort hotel. It is one of the most beautiful villa that I have had stayed so far in the many countries travelled so far. The pictures have not sufficiently described the details of the place."
+			}
+		],
+		"rating": 5,
+		"lat": -8.638,
+		"lng": 115.145,
+		"bedrooms": 5,
+		"guests": 7,
+		"bathrooms": 6,
+		"title": "Luxury Villa Ketuk",
+		"amenities": [
+			{
+				"name": "Kitchen",
+				"icon": "utensils"
+			},
+			{
+				"name": "Gym",
+				"icon": "dumbbell"
+			},
+			{
+				"name": "Swimming Pool",
+				"icon": "swimmer"
+			}
+		],
+		"description": "Stylish, tropical, luxurious, airy and absolute beach front, this villa combines form and function, enjoying magnificent views of Samui’s small islands and the sea beyond. With 520sqm of indoor/outdoor living space with 5 ensuite bedrooms, large living area, beachfront infinity pool, garden, air conditioned gym, professional pool table, bbq and Sala, this villa is perfect for up to 10 adults With 260sqm (2798sqfeet) of living space and 250sqm (2,700sqfeet) of outdoor space.",
+		"price": 350,
+		"city": "Canggu",
+		"host": {
+			"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742593/users/user-01.jpg",
+			"name": "Marsha Boyd",
+			"email": "marsha@gmail.com",
+			"password": "$2b$10$LQ5Usy9QWrfoff1Kp/g.ue09fZUyAZewJKcA9P/DexlIsqukjuJo6",
+			"location": "Canggu, Bali"
+		},
+		"type": {
+			"name": "Shared House"
+		},
+		"region": "Bali"
+	},
+	{
+		"plus": false,
+		"images": [
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689571/airbnb/airbnb-02-01.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689571/airbnb/airbnb-02-02.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689571/airbnb/airbnb-02-03.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689572/airbnb/airbnb-02-04.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689572/airbnb/airbnb-02-05.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689572/airbnb/airbnb-02-06.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689572/airbnb/airbnb-02-07.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689572/airbnb/airbnb-02-08.jpg",
+			"https://res.cloudinary.com/dsko6ntfj/image/upload/v1579689573/airbnb/airbnb-02-09.jpg"
+		],
+		"reviews": [
+			{
+				"rating": 5,
+				"author": {
+					"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742593/users/user-01.jpg",
+					"name": "Marsha Boyd",
+					"email": "marsha@gmail.com",
+					"password": "$2b$10$LQ5Usy9QWrfoff1Kp/g.ue09fZUyAZewJKcA9P/DexlIsqukjuJo6",
+					"location": "Canggu, Bali"
+				},
+				"content": "Fantastic experience. Will come back for sure!"
+			}
+		],
+		"rating": 5,
+		"lat": -8.636,
+		"lng": 115.149,
+		"bedrooms": 2,
+		"guests": 4,
+		"bathrooms": 2,
+		"title": "Spendid house in Canggu",
+		"amenities": [
+			{
+				"name": "Kitchen",
+				"icon": "utensils"
+			},
+			{
+				"name": "Swimming Pool",
+				"icon": "swimmer"
+			}
+		],
+		"description": "Stylish, tropical, luxurious, airy and absolute beach front, this villa combines form and function, enjoying magnificent views of Samui’s small islands and the sea beyond. With 520sqm of indoor/outdoor living space with 5 ensuite bedrooms, large living area, beachfront infinity pool, garden, air conditioned gym, professional pool table, bbq and Sala, this villa is perfect for up to 10 adults With 260sqm (2798sqfeet) of living space and 250sqm (2,700sqfeet) of outdoor space.",
+		"price": 93,
+		"city": "Canggu",
+		"host": {
+			"avatar": "https://res.cloudinary.com/dsko6ntfj/image/upload/v1579742699/users/user-02.jpg",
+			"name": "Brian Wallace",
+			"email": "brian@gmail.com",
+			"password": "$2b$10$qGzpcHjnmkirgcn.ZEC8z.nbpoh0tK6krqV9xlOX8hP9k.9.2V0aO",
+			"location": "Canggu, Bali"
+		},
+		"type": {
+			"name": "Shared House"
+		},
+		"region": "Bali"
+	}
+]
