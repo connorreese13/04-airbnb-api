@@ -84,14 +84,6 @@ module.exports = mongoose.model("houses", {
           type: String,
           required: [true, "password is required"]
         }
-      },
-      rating: {
-        type: Number,
-        default: 0
-      },
-      content: {
-        type: String,
-        required: [true, "content is required"]
       }
     }
   ]
