@@ -22,10 +22,8 @@ module.exports = mongoose.model("houses", {
     required: [true, "description is required"]
   },
   type: {
-    name: {
-      type: String,
-      required: [true, "name is required"]
-    }
+    type: ObjectId,
+    ref: "types"
   },
   city: {
     type: String,
