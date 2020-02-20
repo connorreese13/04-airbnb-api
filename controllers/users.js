@@ -1,9 +1,9 @@
-const Houses = require("../models/houses");
+const Users = require("../models/users");
 const router = require("express").Router();
 
 router.get("/", (req, res) => {
   console.log("hello");
-  Houses.find({})
+  Users.find({})
     .populate({
       path: "users",
       select: "name "
@@ -17,7 +17,3 @@ router.get("/", (req, res) => {
       res.send(err);
     });
 });
-
-// Create route for single house
-
-module.exports = router;
