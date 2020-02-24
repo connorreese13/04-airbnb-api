@@ -5,7 +5,7 @@ router.get("/", (req, res) => {
   Houses.find(req.query)
     .populate("type")
     .select(
-      "images rating bedrooms guests bathroom title price city region type"
+      "images rating bedrooms guests bathroom title price city region type lng lat"
     )
     .lean()
     .then(houses => {
