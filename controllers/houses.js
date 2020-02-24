@@ -23,7 +23,7 @@ router.get("/", (req, res) => {
 
 router.get("/:id", (req, res) => {
   console.log("hello");
-  Houses.find({ _id: req.params.id })
+  Houses.findById(req.params.id)
     .populate("type")
     .then(houses => {
       console.log();
