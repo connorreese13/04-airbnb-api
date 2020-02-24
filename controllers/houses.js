@@ -24,7 +24,7 @@ router.get("/", (req, res) => {
 router.get("/:id", (req, res) => {
   console.log("hello");
   Houses.findById(req.params.id)
-    .populate("type")
+    .populate("type amenities reviews host")
     .then(houses => {
       console.log();
       // Set first of images as 'image'
